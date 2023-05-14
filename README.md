@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tatsuru Hisanaga!
 
-I'm a software developer/engineer from Osaka, Japan.
+I'm a software engineer from Osaka, Japan.
 
 - 🔭 I’m currently working on: Eko
 - 🌱 I’m currently learning: JavaScript
