@@ -2,9 +2,8 @@
 
 I'm a software engineer from Osaka, Japan.
 
-- 🔭 I’m currently working on: Eko
-- 🌱 I’m currently learning: JavaScript
-- 🤔 I’m looking for help with: Any
+- 🔭 I’m currently working on Eko.
+- 🌱 I’m currently learning Next.js, TypeScript, and Supabase.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatsuruHisanaga&theme=dark)](https://git.io/streak-stats)
 
