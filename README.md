@@ -2,7 +2,7 @@
 
 I'm a software engineer from Osaka, Japan.
 
-- 🌱 I’m currently learning ReactNative, Next.js, TypeScript, and Supabase.
+- 🌱 I’m currently learning React, TypeScript, and Supabase.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatsuruHisanaga&theme=dark)](https://git.io/streak-stats)
 
