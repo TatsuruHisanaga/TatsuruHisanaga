@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tatsuru Hisanaga!
+# Hi there 👋, I'm Taruko!
 
 - 🌱 I’m currently learning React, TypeScript, and Supabase.
 
