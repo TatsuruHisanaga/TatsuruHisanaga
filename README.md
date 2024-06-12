@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Taruko!
 
-- 🌱 I’m currently learning React, TypeScript, and Supabase.
+- 🌱 I’m currently learning React, TypeScript, Vue.js, Python, and C.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TatsuruHisanaga&theme=dark)](https://git.io/streak-stats)
 
