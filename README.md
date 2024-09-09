@@ -2,7 +2,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ### 🔥 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=js,ts,react,next,vue,python,c,docker,supabase,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=ts,react,next,vue,kotlin,go,python,c,docker,supabase,figma" />
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
